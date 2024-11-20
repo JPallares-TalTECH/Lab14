@@ -63,7 +63,8 @@ section {
     padding: 2em 0;
 }
 /* Responsive Design */
-@media (max-width: 768px) {   nav ul {
+@media (max-width: 768px) {   
+    nav ul {
         display: none;
         flex-direction: column;
         width: 100%;
